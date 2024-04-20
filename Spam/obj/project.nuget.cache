@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UQtt25jIO8I0JGdS09iH3GsMmN0vgNWI5LQ1s60E0wgvOS7BRsxbj7EX3a2gxcXasL4qxNPblOQ4VmekiZKwhw==",
+  "success": true,
+  "projectFilePath": "D:\\Thinh\\Code\\NET\\Spam\\Spam\\Spam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ivor\\.nuget\\packages\\openqa.selenium.chrome.chromedriverextensions\\1.2.0\\openqa.selenium.chrome.chromedriverextensions.1.2.0.nupkg.sha512",
+    "C:\\Users\\Ivor\\.nuget\\packages\\selenium.support\\4.19.0\\selenium.support.4.19.0.nupkg.sha512",
+    "C:\\Users\\Ivor\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512",
+    "C:\\Users\\Ivor\\.nuget\\packages\\selenium.webdriver.chromedriver\\124.0.6367.6000\\selenium.webdriver.chromedriver.124.0.6367.6000.nupkg.sha512",
+    "C:\\Users\\Ivor\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
